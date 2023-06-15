@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main -  Starts every C program
  * Return: Always 0
  */
