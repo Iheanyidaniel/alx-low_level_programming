@@ -12,7 +12,7 @@ putchar(b);
 }
 for (b = 97; b < 103; b++)
 {
-putchar(i);
+putchar(b);
 }
 putchar('\n');
 return (0);
