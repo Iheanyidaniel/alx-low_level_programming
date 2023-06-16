@@ -9,7 +9,7 @@ char alph[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 int a;
 for (a = 0; a < 52; a++)
 {
-putchar(alph[52]);
+putchar(alph[a]);
 }
 putchar('\n');
 return (0);
