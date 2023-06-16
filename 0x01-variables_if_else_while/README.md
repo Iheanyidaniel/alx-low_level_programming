@@ -1,1 +1,1 @@
-My three digit combo task
+My two two digit number combo task
