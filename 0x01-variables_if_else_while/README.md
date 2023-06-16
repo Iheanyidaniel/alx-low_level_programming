@@ -1,1 +1,1 @@
-My hexadecimal task
+My combination test
