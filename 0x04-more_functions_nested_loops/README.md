@@ -1,1 +1,1 @@
-My is digit task
+My multiplication task
