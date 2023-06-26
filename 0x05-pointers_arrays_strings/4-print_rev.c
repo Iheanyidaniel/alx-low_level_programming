@@ -10,5 +10,5 @@ while (s[l] != '\0')
 l++;
 for (l = l - 1; l >= 0; l--)
 _putchar(s[l]);
--putchar('\n');
+_putchar('\n');
 }
