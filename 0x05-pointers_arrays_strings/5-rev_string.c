@@ -15,7 +15,7 @@ for (b = 0; b < a; b++)
 {
 a--;
 rv = s[b];
-s[b] = s[a]
+s[b] = s[a];
 s[a] = rv;
 }
 }
