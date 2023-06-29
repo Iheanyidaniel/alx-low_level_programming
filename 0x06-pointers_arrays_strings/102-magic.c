@@ -1,4 +1,5 @@
 #include <stdio.h>
+/*main - adds one line of code*/
 int main(void)
 {
 int n;
@@ -6,7 +7,8 @@ int a[5];
 int *p;
 a[2] = 1024;
 p = &n;
-/*
+/**
+* main - add one line to code
 * write your line of code here...
 * Remember:
 * - you are not allowed to use a
